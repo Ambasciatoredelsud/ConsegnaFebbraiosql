@@ -1,0 +1,2 @@
+# ConsegnaFebbraiosql
+Esercizio finale SQL
